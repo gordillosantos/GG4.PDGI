@@ -1,5 +1,5 @@
 
 # Retrato_Rafa
-Retrato_Rafa(9_formas_Rafael_gordillo-pdf)
-9_shapes_Rafael_gordillo]
+[RRETRATO RAFA](9_formas_rafael_gordillo.pdf)
+##MONOGRAFICO
 [monografia](monografia_osamu_sato-pdf)
